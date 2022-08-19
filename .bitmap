@@ -9,5 +9,53 @@
  */
 
 {
+    "components/admin-header": {
+        "scope": "",
+        "version": "",
+        "mainFile": "index.ts",
+        "rootDir": "admin-antd-react/components/admin-header",
+        "config": {
+            "teambit.react/react": {},
+            "teambit.envs/envs": {
+                "env": "teambit.react/react"
+            }
+        }
+    },
+    "components/admin-right-panel": {
+        "scope": "",
+        "version": "",
+        "mainFile": "index.ts",
+        "rootDir": "admin-antd-react/components/admin-right-panel",
+        "config": {
+            "teambit.react/react": {},
+            "teambit.envs/envs": {
+                "env": "teambit.react/react"
+            }
+        }
+    },
+    "components/admin-sidebar": {
+        "scope": "",
+        "version": "",
+        "mainFile": "index.ts",
+        "rootDir": "admin-antd-react/components/admin-sidebar",
+        "config": {
+            "teambit.react/react": {},
+            "teambit.envs/envs": {
+                "env": "teambit.react/react"
+            }
+        }
+    },
+    "layouts/admin-layout": {
+        "scope": "",
+        "version": "",
+        "mainFile": "index.ts",
+        "rootDir": "admin-antd-react/layouts/admin-layout",
+        "config": {
+            "teambit.react/react": {},
+            "teambit.envs/envs": {
+                "env": "teambit.react/react"
+            }
+        }
+    },
     "$schema-version": "14.9.0"
 }
